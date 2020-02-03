@@ -1,6 +1,6 @@
 # Kazoobot
 
-[![Discord](https://img.shields.io/discord/589595065157156892?logoColor=https%3A%2F%2Fimg.shields.io%2Fstatic%2Fv1%3Fcolor%3Dblue)](https://discord.gg/4WDRpx2)
+Chat with us:[<img src="https://discordapp.com/api/guilds/589595065157156892/widget.png">](https://discord.gg/4WDRpx2)
 
 Kazoobot Support and development repository
 
