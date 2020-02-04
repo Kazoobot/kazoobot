@@ -1,6 +1,6 @@
 # Kazoobot
 
-Chat with us:[<img src="https://discordapp.com/api/guilds/589595065157156892/widget.png">](https://discord.gg/4WDRpx2)
+Chat with us: [<img src="https://discordapp.com/api/guilds/589595065157156892/widget.png">](https://discord.gg/4WDRpx2)
 
 Kazoobot Support and development repository
 
