@@ -1,3 +1,10 @@
-# Create a pull request with changes by adding statuses here for suggestion
-- Beep boop i'm a bot
--
+// You can commit more suggestions for statuses 
+[
+	["Dev "  + exports.pack.version, 'PLAYING'], 
+	["Blocks and RD have a mental breakdown when the code doesn't work but it should", 'WATCHING'], 
+	["to Blocks and RD complain about updating to discord.js v12", 'LISTENING'], 
+	["The best bot called kazoobot", 'WATCHING'], 
+	["Spotify with an adblocker", 'LISTENING'], 
+	["the world burn", 'WATCHING'], 
+	["around when we should be fixing bugs", "PLAYING"]
+]
