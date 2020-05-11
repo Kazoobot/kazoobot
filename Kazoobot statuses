@@ -1,4 +1,11 @@
 // You can commit more suggestions for statuses 
+/*
+
+HOW TO ADD A STATUS:
+Create a pull request, in that pull request edit the file with more statuses 
+then wait for the pull request to be accepted/denied and your statuses will be added to kazoobot
+
+*/
 [
 	["Dev "  + exports.pack.version, 'PLAYING'], 
 	["Blocks and RD have a mental breakdown when the code doesn't work but it should", 'WATCHING'], 
@@ -6,5 +13,6 @@
 	["The best bot called kazoobot", 'WATCHING'], 
 	["Spotify with an adblocker", 'LISTENING'], 
 	["the world burn", 'WATCHING'], 
+	["people submit statuses at github.com/kazoobot/kazoobot in the statuses file", 'WATCHING'], 
 	["around when we should be fixing bugs", "PLAYING"]
 ]
