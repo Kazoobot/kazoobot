@@ -7,12 +7,13 @@ then wait for the pull request to be accepted/denied and your statuses will be a
 
 */
 [
-	["Dev "  + exports.pack.version, 'PLAYING'], 
+	[exports.pack.version, 'PLAYING'], 
 	["Blocks and RD have a mental breakdown when the code doesn't work but it should", 'WATCHING'], 
 	["to Blocks and RD complain about updating to discord.js v12", 'LISTENING'], 
 	["The best bot called kazoobot", 'WATCHING'], 
 	["Spotify with an adblocker", 'LISTENING'], 
 	["the world burn", 'WATCHING'], 
-	["people submit statuses at github.com/kazoobot/kazoobot in the statuses file", 'WATCHING'], 
-	["around when we should be fixing bugs", "PLAYING"]
+	["around when we should be fixing bugs", "PLAYING"],
+        ["people submit statuses at github.com/kazoobot/kazoobot in the statuses file", 'WATCHING'], 
+        ["2500 hrs of downtime... :/", "LISTENING"]
 ]
