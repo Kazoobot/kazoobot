@@ -3,3 +3,4 @@ PLAYING Currently running %version%
 WATCHING Development stream?
 PLAYING With the new status system
 LISTENING The sounds of development
+WATCHING Uptime go up
