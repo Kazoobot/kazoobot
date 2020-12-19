@@ -5,7 +5,7 @@
 # Playing statuses
 PLAYING On version %version%
 PLAYING With the new status system
-PLAYING In %servers% servers!
+# PLAYING In %servers% servers! # Temp disabled since %status% has not been implemented
 #
 # Watching
 WATCHING Out for bugs in Kazoobot %version%
