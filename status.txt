@@ -1,10 +1,19 @@
 # Kazoobot statuses
 # Start each status with `PLAYING` `WATCHING` or `LISTENING`
 # and follow the line after with your status message
-WATCHING Out for bugs in Kazoobot %version%
-PLAYING Currently running %version%
-WATCHING Development stream?
+#
+# Playing statuses
+PLAYING On version %version%
 PLAYING With the new status system
-LISTENING The sounds of development
+PLAYING In %servers% servers!
+#
+# Watching
+WATCHING Out for bugs in Kazoobot %version%
+WATCHING A development stream?
 WATCHING Uptime go up
 WATCHING You submit statuses on Github
+WATCHING For %prefix%help
+#
+# Listening
+LISTENING The sounds of development
+
