@@ -1,19 +1,16 @@
 # Kazoobot statuses
 # Start each status with `PLAYING` `WATCHING` or `LISTENING`
 # and follow the line after with your status message
-#
-# Playing statuses
-PLAYING On version %version%
-PLAYING With the new status system
-# PLAYING In %servers% servers! # Temp disabled since %status% has not been implemented
-#
-# Watching
-WATCHING Out for bugs in Kazoobot %version%
+# Example: `PLAYING on github`
+# To prevent issues with pr merging please sort them alphabetically (The custom message not type)
+# Current placeholders: `%prefix%, %version%`
+# Statuses:
 WATCHING A development stream?
-WATCHING Uptime go up
-WATCHING You submit statuses on Github
 WATCHING For %prefix%help
-#
-# Listening
+# PLAYING In %servers% servers! # Temp disabled since %status% has not been implemented
+PLAYING On version %version%
+WATCHING Out for bugs in Kazoobot %version%
 LISTENING The sounds of development
-
+WATCHING Uptime go up
+PLAYING With the new status system
+WATCHING You submit statuses on Github
